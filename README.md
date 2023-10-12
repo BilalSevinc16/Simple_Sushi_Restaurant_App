@@ -1,16 +1,13 @@
-# simple_sushi_restaurant_app
+# Simple Sushi Restaurant App
 
-A new Flutter project.
+Simple Sushi Restaurant App
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/92d79ee6-3444-4071-972e-b7fd4f237f63)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/6e25ec7d-aacf-462a-82a6-594687078542)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/198221b4-028c-4202-b4c4-97f535fd2003)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![4](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/a780746a-7109-4993-9425-e059cd072483)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/ef312c59-6e0f-4a0a-a908-1a9e484310c0)
