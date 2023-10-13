@@ -1,6 +1,6 @@
-# Simple Sushi Restaurant App
+# Simple Sushi Restaurant App UI
 
-Simple Sushi Restaurant App
+Simple Sushi Restaurant App UI
 
 ![1](https://github.com/BilalSevinc16/Simple_Sushi_Restaurant_App/assets/146417248/92d79ee6-3444-4071-972e-b7fd4f237f63)
 
